@@ -63,7 +63,7 @@
     align-items: flex-end;
 }
 .cardDesc {
-    min-height: 10vh;
+    min-height: 12vh;
     width: 100%;
     background: white;
     border-bottom: 1px solid lightgray;
@@ -72,9 +72,11 @@
     overflow: hidden;
 }
 .cardReadMore {
-    height: 10vh;
+    height: 8vh;
     width: 100%;
     background: white;
+    display: flex;
+    align-items: center;
 }
 .cardh2, .price {
     color: white;
@@ -87,5 +89,20 @@
     padding: 1%;
     width: 50%;
     text-align: right;
+}
+.btn {
+    padding: 8px 10px;
+    border: 1px solid #1c1c1c;
+    margin-left: 1.5%;
+    color: #1c1c1c;
+    background: white;
+    transition: .2s ease-in-out;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+.btn:hover {
+    cursor: pointer;
+    background: #1c1c1c;
+    color: white;
 }
 /* /CARD STYLING */
