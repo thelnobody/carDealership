@@ -1,14 +1,13 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 
-<company name="">
+<company name="Gothavsen">
     <information>
-        <cvr></cvr>
+        <cvr>98745319</cvr>
         <location>
-            <address></address>
-            <city></city>
-            <zipCode></zipCode>
-            
+            <address>HaderslevVej 28</address>
+            <city>Kolding</city>
+            <zipCode>6000</zipCode>
         </location>
     </information>
     <storage>
@@ -28,35 +27,50 @@
     </storage>
     
     <employees>
-        <employee gender="">
-            <firstName></firstName>
-            <lastName></lastName>
-            <age></age>
+        <employee gender="female">
+            <firstName>Andrea</firstName>
+            <lastName>Viallon</lastName>
+            <age>33</age>
             <contact>
-                <phone></phone>
-                <email></email>
+                <phone>30123686</phone>
+                <email>andrea@gothavsen.dk</email>
                 <location>
-                    <address></address>
-                    <city></city>
-                    <zipCode></zipCode>
+                    <address>Jernbanegade 17a</address>
+                    <city>Kolding</city>
+                    <zipCode>6000</zipCode>
                 </location>
             </contact>
-            <role></role>
+            <role>CEO</role>
+        </employee>
+        <employee gender="male">
+            <firstName>Johnny</firstName>
+            <lastName>Bravo</lastName>
+            <age>30</age>
+            <contact>
+                <phone>30127596</phone>
+                <email>johnny@gothavsen.dk</email>
+                <location>
+                    <address>Jernbanegade 80b</address>
+                    <city>Kolding</city>
+                    <zipCode>6000</zipCode>
+                </location>
+            </contact>
+            <role>Mechanic</role>
         </employee>
     </employees>
     
     <customers>
         <customer gender="">
-            <firstName></firstName>
-            <lastName></lastName>
-            <age></age>
+            <firstName>Sine</firstName>
+            <lastName>Hansen</lastName>
+            <age>27</age>
             <contact>
-                <phone></phone>
-                <email></email>
+                <phone>87407596</phone>
+                <email>sine@gmail.dk</email>
                 <location>
-                    <address></address>
-                    <city></city>
-                    <zipCode></zipCode>
+                    <address>Vardevej 20</address>
+                    <city>Varde</city>
+                    <zipCode>6800</zipCode>
                 </location>
             </contact>
         </customer>
