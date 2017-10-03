@@ -14,6 +14,19 @@
             <car>
                 <image file="img/car1.jpg"></image>
                 <info>
+                    <brand>VOLVO</brand>
+                    <model>B</model>
+                    <price valuta="DK">350000</price>
+                    <desc>
+                        1974 MGB roadster, lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                        Ut placerat lacus id nisl luctus, in fermentum est pulvinar. 
+                        Aenean eget imperdiet metus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+                    </desc>
+                </info>
+            </car> 
+            <car>
+                <image file="img/car1.jpg"></image>
+                <info>
                     <brand>MG</brand>
                     <model>B</model>
                     <price valuta="DK">350000</price>
