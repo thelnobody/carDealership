@@ -9,8 +9,10 @@
 }
 #topimg {
     width: 100%;
-    height: 50vh;
+    height: 80vh;
     background: url("img/car.jpg") center;
+    background-size: cover;
+    background-repeat: no-repeat
 }
 #container {
     width: 100%;
