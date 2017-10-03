@@ -31,18 +31,18 @@
                     <model>B</model>
                     <price valuta="DK">350000</price>
                     <desc>
-                        1974 MGB roadster, lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                        Ut placerat lacus id nisl luctus, in fermentum est pulvinar. 
+                        1974 MGB roadster, lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Ut placerat lacus id nisl luctus, in fermentum est pulvinar.
                         Aenean eget imperdiet metus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
                     </desc>
                 </info>
-            </car> 
+            </car>
         </cars>
         <miscellaneous>
-            
+
         </miscellaneous>
     </storage>
-    
+
     <employees>
         <employee gender="female">
             <firstName>Andrea</firstName>
@@ -75,7 +75,7 @@
             <role>Mechanic</role>
         </employee>
     </employees>
-    
+
     <customers>
         <customer gender="">
             <firstName>Sine</firstName>
