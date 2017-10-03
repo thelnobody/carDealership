@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
 }
 #mainnav {
     width: 100%;
@@ -16,8 +17,75 @@
 }
 #container {
     width: 100%;
-
+    display: flex;
+    justify-content: center;
+    background: whitesmoke;
+    height: 500px;
 }
 #wrapper {
+    width: 80%;
+    height: 100%;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
+#footer {
+    width: 100%;
+    height: 200px;
+    background: #1c1c1c;
+}
+
+
+
+
+
+/* CARD STYLING */
+
+.card {
+    width: 60%;
+    min-height: 50vh;
+    background: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-shadow: 2px 2px 9px 0px rgba(28,28,28,0.57);
+    -moz-box-shadow: 2px 2px 9px 0px rgba(28,28,28,0.57);
+    box-shadow: 2px 2px 9px 0px rgba(28,28,28,0.57);
+}
+.cardTitle {
+    height: 30vh;
+    width: 100%;
+    background: url("img/car.jpg") center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+}
+.cardDesc {
+    min-height: 10vh;
+    width: 100%;
+    background: white;
+    border-bottom: 1px solid lightgray;
+    padding: 2%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.cardReadMore {
+    height: 10vh;
+    width: 100%;
+    background: white;
+}
+.cardh2, .price {
+    color: white;
+}
+.cardh2{
+    padding: 1%;
+    width: 50%;
+}
+.price {
+    padding: 1%;
+    width: 50%;
+    text-align: right;
+}
+/* /CARD STYLING */
