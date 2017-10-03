@@ -1,0 +1,68 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<company name="">
+    <information>
+        <cvr></cvr>
+        <location>
+            <address></address>
+            <city></city>
+            <zipCode></zipCode>
+            
+        </location>
+    </information>
+    <storage>
+        <cars>
+            <car>
+                <image file=""></image>
+                <info>
+                    <model></model>
+                    <price></price>
+                    <desc></desc>
+                </info>
+            </car> 
+        </cars>
+        <miscellaneous>
+            
+        </miscellaneous>
+    </storage>
+    
+    <employees>
+        <employee gender="">
+            <firstName></firstName>
+            <lastName></lastName>
+            <age></age>
+            <contact>
+                <phone></phone>
+                <email></email>
+                <location>
+                    <address></address>
+                    <city></city>
+                    <zipCode></zipCode>
+                </location>
+            </contact>
+            <role></role>
+        </employee>
+    </employees>
+    
+    <customers>
+        <customer gender="">
+            <firstName></firstName>
+            <lastName></lastName>
+            <age></age>
+            <contact>
+                <phone></phone>
+                <email></email>
+                <location>
+                    <address></address>
+                    <city></city>
+                    <zipCode></zipCode>
+                </location>
+            </contact>
+        </customer>
+    </customers>
+</company>
+
+
+
+
